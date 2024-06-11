@@ -4,3 +4,4 @@
 # pip3 install -r requirements.txt
 # cd Qr-generator
 # python3 Qr-generator.cpython-311.pyc
+# to update python3 update-tool.cpython-311.pyc
