@@ -1,6 +1,4 @@
-# Qr-generator
-Qr-generator
-# Installation
+# Qr-generator# Installation
 # git clone https://github.com/eyad17354/Qr-generator.git
 # pip3 install -r requirements.txt
 # cd Qr-generator
